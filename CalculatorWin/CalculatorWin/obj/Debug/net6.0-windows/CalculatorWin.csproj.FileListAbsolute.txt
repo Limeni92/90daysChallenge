@@ -1,0 +1,17 @@
+C:\Users\ljubomirs\source\repos\CalculatorWin\CalculatorWin\bin\Debug\net6.0-windows\CalculatorWin.exe
+C:\Users\ljubomirs\source\repos\CalculatorWin\CalculatorWin\bin\Debug\net6.0-windows\CalculatorWin.deps.json
+C:\Users\ljubomirs\source\repos\CalculatorWin\CalculatorWin\bin\Debug\net6.0-windows\CalculatorWin.runtimeconfig.json
+C:\Users\ljubomirs\source\repos\CalculatorWin\CalculatorWin\bin\Debug\net6.0-windows\CalculatorWin.dll
+C:\Users\ljubomirs\source\repos\CalculatorWin\CalculatorWin\bin\Debug\net6.0-windows\CalculatorWin.pdb
+C:\Users\ljubomirs\source\repos\CalculatorWin\CalculatorWin\obj\Debug\net6.0-windows\CalculatorWin.csproj.AssemblyReference.cache
+C:\Users\ljubomirs\source\repos\CalculatorWin\CalculatorWin\obj\Debug\net6.0-windows\CalculatorWin.Form1.resources
+C:\Users\ljubomirs\source\repos\CalculatorWin\CalculatorWin\obj\Debug\net6.0-windows\CalculatorWin.csproj.GenerateResource.cache
+C:\Users\ljubomirs\source\repos\CalculatorWin\CalculatorWin\obj\Debug\net6.0-windows\CalculatorWin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljubomirs\source\repos\CalculatorWin\CalculatorWin\obj\Debug\net6.0-windows\CalculatorWin.AssemblyInfoInputs.cache
+C:\Users\ljubomirs\source\repos\CalculatorWin\CalculatorWin\obj\Debug\net6.0-windows\CalculatorWin.AssemblyInfo.cs
+C:\Users\ljubomirs\source\repos\CalculatorWin\CalculatorWin\obj\Debug\net6.0-windows\CalculatorWin.csproj.CoreCompileInputs.cache
+C:\Users\ljubomirs\source\repos\CalculatorWin\CalculatorWin\obj\Debug\net6.0-windows\CalculatorWin.dll
+C:\Users\ljubomirs\source\repos\CalculatorWin\CalculatorWin\obj\Debug\net6.0-windows\refint\CalculatorWin.dll
+C:\Users\ljubomirs\source\repos\CalculatorWin\CalculatorWin\obj\Debug\net6.0-windows\CalculatorWin.pdb
+C:\Users\ljubomirs\source\repos\CalculatorWin\CalculatorWin\obj\Debug\net6.0-windows\CalculatorWin.genruntimeconfig.cache
+C:\Users\ljubomirs\source\repos\CalculatorWin\CalculatorWin\obj\Debug\net6.0-windows\ref\CalculatorWin.dll
